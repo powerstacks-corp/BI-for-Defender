@@ -241,10 +241,10 @@ Updated the “**Device AntiVirus**” object. New fields include:
 
 
 ## New Cloud App Page
-![](images/Cloud_App_Page-1024x613.png)
+![](../images/Cloud_App_Page-1024x613.png)
 
 ## New Antivirus Page
-![](images/Antivirus_page-1024x604.png)
+![](../images/Antivirus_page-1024x604.png)
 
 ## New User Info Page
-![](images/User_Info_Page-1024x604.png)
+![](../images/User_Info_Page-1024x604.png)

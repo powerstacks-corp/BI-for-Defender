@@ -12,7 +12,7 @@ Data is synchronized from the data sources to Power BI on a schedule as describe
 
 1. Select **Workspaces**.
 1. Select the **BI for Defender** workspace.
-![defender workspace](images/defender_workspace.png)
+![defender workspace](../images/defender_workspace.png)
 ### Step 2
 
 
@@ -22,7 +22,7 @@ Data is synchronized from the data sources to Power BI on a schedule as describe
 1. Hover over the **bi_for_defender Semantic model** dataset to reveal a **kebab menu** (three vertical dots).
 1. Select the **kebab menu**.
 1. Select **Settings**.
-![defender dataset settings](images/defender_dataset_settings-991x1024.png)
+![defender dataset settings](../images/defender_dataset_settings-991x1024.png)
 ### Step 3
 
 
@@ -34,4 +34,4 @@ Data is synchronized from the data sources to Power BI on a schedule as describe
 1. Select **Add another time** and enter up to 8 times for the data synchronization to happen.
 1. Optionally, enter **contacts** to be notified of synchronization failures.
 1. Select **Apply**.
-![defender refresh](images/defender_refresh-1001x1024.png)
+![defender refresh](../images/defender_refresh-1001x1024.png)

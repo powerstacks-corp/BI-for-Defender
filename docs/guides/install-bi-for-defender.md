@@ -21,7 +21,7 @@ To get started select the "**Install Now**" button to be directed to Microsoft A
 
 1. Select the "**Install Now**" button above.
 1. On the**BI for Defender** page in **Microsoft AppSource** select **Get it now**.
-![get defender now](images/get_defender_now.png)
+![get defender now](../images/get_defender_now.png)
 ### Step 2
 
 
@@ -29,7 +29,7 @@ To get started select the "**Install Now**" button to be directed to Microsoft A
 
 
 1. Enter your **work email address** and select **Sign in**.
-![](images/Sign-in.png)
+![](../images/Sign-in.png)
 ### Step 3
 
 
@@ -37,7 +37,7 @@ To get started select the "**Install Now**" button to be directed to Microsoft A
 
 
 1. Select **Install**.
-![defender confirm](images/defender_confirm-1024x391.png)
+![defender confirm](../images/defender_confirm-1024x391.png)
 ### Step 4
 
 
@@ -45,7 +45,7 @@ To get started select the "**Install Now**" button to be directed to Microsoft A
 
 
 1. You will see a notification that BI for Defender is installing. Once this has disappeared you have successfully installed BI for Defender. You may now view the app using the sample data provided or you can connect your data by [requesting a trial license key](/bi-for-intune/guides/request-a-trial-license.md).
-![](images/Installing-App.png)
+![](../images/Installing-App.png)
 ### Step 5
 
 
@@ -53,4 +53,4 @@ To get started select the "**Install Now**" button to be directed to Microsoft A
 
 
 1. Upon opening the BI for Defender workspace you may notice a banner that says, "**You're viewing this app with sample data. Connect your data**." This can be safely ignored. If you'd like to try BI for Defender before connecting your data it installs with sample data. If you prefer to go ahead and see your own data proceed to the next step in our documentation.
-![defender connect](images/defender_connect-1024x411.png)
+![defender connect](../images/defender_connect-1024x411.png)

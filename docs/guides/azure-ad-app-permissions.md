@@ -39,4 +39,4 @@ Below are all of the permissions required to be configured on the BI for Defende
   Software.Read.All
   Vulnerability.Read.All
   Machine.Read.All
-![](images/Defender_Permissions_v11-1024x579.png)
+![](../images/Defender_Permissions_v11-1024x579.png)

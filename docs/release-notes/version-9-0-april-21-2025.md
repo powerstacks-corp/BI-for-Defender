@@ -88,4 +88,4 @@ Changes to what PowerStacks considers a "valid device" for licensing purposes. B
 
 
 We've added a new **Browser Extensions** report page to BI for Defender, providing detailed visibility into installed browser extensions across your environment. This report helps you identify potential risks, track versioning, and understand permission requirements at scale. By surfacing extension-level risk ratings and activation status, it supports proactive threat assessment and helps ensure that only trusted extensions are in use. Use this report to enhance visibility, tighten browser security, and reduce your overall attack surface.
-![defender browser extensions](images/defender_browser_extensions-1024x579.png)
+![defender browser extensions](../images/defender_browser_extensions-1024x579.png)

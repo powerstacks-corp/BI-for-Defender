@@ -50,4 +50,4 @@ Always backup your custom reports using our [backup process.](create-backup-work
 
 
 We've added a new "Fixed Vulnerabilities" report page to **BI for Defender**, giving you clear visibility into how many security vulnerabilities have been resolved over the last **XX** days. This report helps you track remediation progress, assess security team performance, and ensure threats are being addressed efficiently. With near real-time insights, you can stay proactive in strengthening your organization's security posture.
-![fixed vulnerabilities](images/fixed_vulnerabilities-1024x532.png)
+![fixed vulnerabilities](../images/fixed_vulnerabilities-1024x532.png)

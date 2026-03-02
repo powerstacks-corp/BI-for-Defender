@@ -87,7 +87,7 @@ New fields added to the "Device" category in the Semantic Model:
 Always backup your custom reports using our [backup process.](create-backup-workspace.md)
 
 ## New Incidents & Alerts Page
-![defender incident report](images/defender_incident_report-1024x569.png)
+![defender incident report](../images/defender_incident_report-1024x569.png)
 
 ## New Secure Score Page
-![defender secure score report](images/defender_secure_score_report-1024x568.png)
+![defender secure score report](../images/defender_secure_score_report-1024x568.png)

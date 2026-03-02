@@ -12,7 +12,7 @@ It’s one of the most effective ways to stop uninvited guests like malware and 
 
 
 ## 🤔 Why is the Application Controls Page in BI for Defender Blank?
-![club wdac](images/club_wdac.png)
+![club wdac](../images/club_wdac.png)
 
 If your **Application Controls** page is looking blank — **like the dancefloor before 9 PM** — it’s probably because **Application Control for Business hasn’t been configured yet**.
 

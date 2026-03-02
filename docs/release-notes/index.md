@@ -405,13 +405,13 @@ Updated the “**Device AntiVirus**” object. New fields include:
 
 
 ## New Cloud App Page
-![](images/Cloud_App_Page-1024x613.png)
+![](../images/Cloud_App_Page-1024x613.png)
 
 ## New Antivirus Page
-![](images/Antivirus_page-1024x604.png)
+![](../images/Antivirus_page-1024x604.png)
 
 ## New User Info Page
-![](images/User_Info_Page-1024x604.png)
+![](../images/User_Info_Page-1024x604.png)
 
 ---
 
@@ -544,7 +544,7 @@ Changes to what PowerStacks considers a "valid device" for licensing purposes. B
 
 
 We've added a new **Browser Extensions** report page to BI for Defender, providing detailed visibility into installed browser extensions across your environment. This report helps you identify potential risks, track versioning, and understand permission requirements at scale. By surfacing extension-level risk ratings and activation status, it supports proactive threat assessment and helps ensure that only trusted extensions are in use. Use this report to enhance visibility, tighten browser security, and reduce your overall attack surface.
-![defender browser extensions](images/defender_browser_extensions-1024x579.png)
+![defender browser extensions](../images/defender_browser_extensions-1024x579.png)
 
 ---
 
@@ -599,7 +599,7 @@ Always backup your custom reports using our [backup process.](create-backup-work
 
 
 We've added a new "Fixed Vulnerabilities" report page to **BI for Defender**, giving you clear visibility into how many security vulnerabilities have been resolved over the last **XX** days. This report helps you track remediation progress, assess security team performance, and ensure threats are being addressed efficiently. With near real-time insights, you can stay proactive in strengthening your organization's security posture.
-![fixed vulnerabilities](images/fixed_vulnerabilities-1024x532.png)
+![fixed vulnerabilities](../images/fixed_vulnerabilities-1024x532.png)
 
 ---
 
@@ -878,10 +878,10 @@ New fields added to the "Device" category in the Semantic Model:
 Always backup your custom reports using our [backup process.](create-backup-workspace.md)
 
 ## New Incidents & Alerts Page
-![defender incident report](images/defender_incident_report-1024x569.png)
+![defender incident report](../images/defender_incident_report-1024x569.png)
 
 ## New Secure Score Page
-![defender secure score report](images/defender_secure_score_report-1024x568.png)
+![defender secure score report](../images/defender_secure_score_report-1024x568.png)
 
 ---
 

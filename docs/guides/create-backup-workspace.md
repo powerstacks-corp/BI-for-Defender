@@ -17,7 +17,7 @@ Our backup process consists of creating a new workspace by installing a second i
 1. Login to **Power BI**.
 1. Select **Apps**.
 1. Select **Get apps**.
-![get apps](images/get_apps-1024x182.png)
+![get apps](../images/get_apps-1024x182.png)
 ### Step 2
 
 
@@ -27,7 +27,7 @@ Our backup process consists of creating a new workspace by installing a second i
 1. Select **Template apps**.
 1. Search for **BI for Defender**.
 1. Select **BI for Defender**.
-![search defender app](images/search_defender_app-1024x662.png)
+![search defender app](../images/search_defender_app-1024x662.png)
 ### Step 3
 
 
@@ -35,7 +35,7 @@ Our backup process consists of creating a new workspace by installing a second i
 
 
 1. Select **Get It Now**.
-![](images/intune-get-it-now-1024x661.png)
+![](../images/intune-get-it-now-1024x661.png)
 ### Step 4
 
 
@@ -44,7 +44,7 @@ Our backup process consists of creating a new workspace by installing a second i
 
 1. Accept the **Microsoft agreement**.
 1. Select **Continue**.
-![](images/intune-ms-agreement.png)
+![](../images/intune-ms-agreement.png)
 ### Step 5
 
 
@@ -54,7 +54,7 @@ Our backup process consists of creating a new workspace by installing a second i
 1. Select I**nstall another copy of the app into a new workspace**.
 1. Enter a name for the new workspace.
 1. Select **Install**.
-![](images/New_Backup_Workspace.png)
+![](../images/New_Backup_Workspace.png)
 ### Step 6
 
 
@@ -63,4 +63,4 @@ Our backup process consists of creating a new workspace by installing a second i
 
 1. Watch for the **update completed** notification in your browser.
 1. There's no need to configure the dataset in this workspace, it's just a placeholder for the backup of your custom reports. Do not forget to run the backup script to copy your reports to the backup workspace.
-![](images/Update-Complete.png)
+![](../images/Update-Complete.png)
