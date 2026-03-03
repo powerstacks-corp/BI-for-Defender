@@ -4,7 +4,7 @@ title: "Configure the Dataset"
 # Configure The Dataset Parameters
 The BI for Defender dataset contains some parameters that must be configured in order to synchronize data from Defender for Endpoint to Power BI. Following the steps below to configure the dataset parameters and sync your data.
 
-### Step 1
+### Step 1: Open the Defender Workspace
 
 
 
@@ -13,7 +13,7 @@ The BI for Defender dataset contains some parameters that must be configured in 
 1. Select **Workspaces**.
 1. Select the **BI for Defender** workspace.
 ![defender workspace](../images/defender_workspace.png)
-### Step 2
+### Step 2: Open the Dataset Settings
 
 
 
@@ -23,7 +23,7 @@ The BI for Defender dataset contains some parameters that must be configured in 
 1. Select the **kebab menu**.
 1. Select **Settings**.
 ![defender dataset settings](../images/defender_dataset_settings-991x1024.png)
-### Step 3
+### Step 3: Enter the Dataset Parameters
 
 
 
@@ -36,7 +36,7 @@ The BI for Defender dataset contains some parameters that must be configured in 
 1. Enter you **Azure AD tenant ID**that you recorded during the configuration of the [**Azure AD App Registration**](http://ec2-34-213-160-174.us-west-2.compute.amazonaws.com/wordpress/bi-for-defender-kb/bi-for-defender-create-azure-ad-app-registration/).
 1. Select **Apply**.
 ![defender parameters](../images/defender_parameters-450x1024.png)
-### Step 4
+### Step 4: Expand Data Source Credentials
 
 
 
@@ -44,7 +44,7 @@ The BI for Defender dataset contains some parameters that must be configured in 
 
 1. Expand **Data Source Credentials**.
 ![defender data source credentials](../images/defender_data_source_credentials-1024x222.png)
-### Step 5
+### Step 5: Configure API Credentials
 
 
 
@@ -54,7 +54,7 @@ The BI for Defender dataset contains some parameters that must be configured in 
 1. Select **Skip test connection** on both.
 Select **Sign in** on each of the credentials.
 ![defender api](../images/defender_api.png)
-### Step 6
+### Step 6: Configure PowerStacks API Credentials
 
 
 

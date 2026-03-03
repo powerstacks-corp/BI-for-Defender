@@ -13,7 +13,7 @@ Installing BI for Defender is quite simple. BI for Defender requires no on-premi
 To get started select the "**Install Now**" button to be directed to Microsoft App Source.
 [Install Now](https://appsource.microsoft.com/en-us/product/power-bi/powerstackscorporation1641419080242.bifordefender?tab=Overview)
 
-### Step 1
+### Step 1: Get the App from AppSource
 
 
 
@@ -22,7 +22,7 @@ To get started select the "**Install Now**" button to be directed to Microsoft A
 1. Select the "**Install Now**" button above.
 1. On the**BI for Defender** page in **Microsoft AppSource** select **Get it now**.
 ![get defender now](../images/get_defender_now.png)
-### Step 2
+### Step 2: Sign In with Your Work Email
 
 
 
@@ -30,7 +30,7 @@ To get started select the "**Install Now**" button to be directed to Microsoft A
 
 1. Enter your **work email address** and select **Sign in**.
 ![](../images/Sign-in.png)
-### Step 3
+### Step 3: Confirm the Installation
 
 
 
@@ -38,7 +38,7 @@ To get started select the "**Install Now**" button to be directed to Microsoft A
 
 1. Select **Install**.
 ![defender confirm](../images/defender_confirm-1024x391.png)
-### Step 4
+### Step 4: Wait for Installation to Complete
 
 
 
@@ -46,7 +46,7 @@ To get started select the "**Install Now**" button to be directed to Microsoft A
 
 1. You will see a notification that BI for Defender is installing. Once this has disappeared you have successfully installed BI for Defender. You may now view the app using the sample data provided or you can connect your data by [requesting a trial license key](/bi-for-intune/guides/request-a-trial-license.md).
 ![](../images/Installing-App.png)
-### Step 5
+### Step 5: View the App with Sample Data
 
 
 

@@ -8,7 +8,7 @@ Our backup process consists of creating a new workspace by installing a second i
 
 **Prerequisites:**The user executing these steps should be an administrator of the BI for Defender workspace.
 
-### Step 1
+### Step 1: Open the Power BI App Store
 
 
 
@@ -18,7 +18,7 @@ Our backup process consists of creating a new workspace by installing a second i
 1. Select **Apps**.
 1. Select **Get apps**.
 ![get apps](../images/get_apps-1024x182.png)
-### Step 2
+### Step 2: Search for BI for Defender
 
 
 
@@ -28,7 +28,7 @@ Our backup process consists of creating a new workspace by installing a second i
 1. Search for **BI for Defender**.
 1. Select **BI for Defender**.
 ![search defender app](../images/search_defender_app-1024x662.png)
-### Step 3
+### Step 3: Get the App
 
 
 
@@ -36,7 +36,7 @@ Our backup process consists of creating a new workspace by installing a second i
 
 1. Select **Get It Now**.
 ![](../images/intune-get-it-now-1024x661.png)
-### Step 4
+### Step 4: Accept the Microsoft Agreement
 
 
 
@@ -45,7 +45,7 @@ Our backup process consists of creating a new workspace by installing a second i
 1. Accept the **Microsoft agreement**.
 1. Select **Continue**.
 ![](../images/intune-ms-agreement.png)
-### Step 5
+### Step 5: Install Into a New Workspace
 
 
 
@@ -55,7 +55,7 @@ Our backup process consists of creating a new workspace by installing a second i
 1. Enter a name for the new workspace.
 1. Select **Install**.
 ![](../images/New_Backup_Workspace.png)
-### Step 6
+### Step 6: Confirm Installation Completed
 
 
 

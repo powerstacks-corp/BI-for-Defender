@@ -11,7 +11,7 @@ We strongly advise customers to always backup  their custom reports before perf
 1. A second install of BI for Defender to be used as a backup workspace. You do not need to configure the dataset parameters, this workspace is simply a place-holder to store a copy of your custom reports.
 ![github mark2](../images/github-mark2-80x80.png)
 
-### Step 1
+### Step 1: Save the PowerShell Script
 
 
 
@@ -19,7 +19,7 @@ We strongly advise customers to always backup  their custom reports before perf
 
 1. Copy the **PowerShell** code above, save it as a .ps1 file or paste it into your favorite code editor.
 ![Run The Code - PowerShell](../images/Run-the-code-1024x584.png)
-### Step 2
+### Step 2: Run the Script and Sign In
 
 
 
@@ -28,7 +28,7 @@ We strongly advise customers to always backup  their custom reports before perf
 1. Execute the code in the **code editor** or by running the .**ps1 file**.
 1. When prompted, **Sign-in** to Power BI.
 ![Sign in to Power BI](../images/Sign-in-2-599x1024.png)
-### Step 3
+### Step 3: Select the App to Backup
 
 
 
@@ -39,7 +39,7 @@ We strongly advise customers to always backup  their custom reports before perf
 ![select bi for defender](../images/select_bi_for_defender-1024x517.png)
 v*
 
-### Step 4
+### Step 4: Select the Production Workspace
 
 
 
@@ -48,7 +48,7 @@ v*
 1. When prompted, select your **production**BI for Defender**workspace**. This is the **source** from which reports will be copied.
 1. Select **OK**.
 ![bi for defender prod](../images/bi_for_defender_prod-1024x541.png)
-### Step 5
+### Step 5: Select the Backup Workspace
 
 
 
@@ -57,7 +57,7 @@ v*
 1. When prompted, select your **backup BI for Intune workspace**. This is the **destination** which reports will be copied to.
 1. Select **OK**.
 ![defender backup](../images/defender_backup-1024x523.png)
-### Step 6
+### Step 6: Verify the Backup Output
 
 
 

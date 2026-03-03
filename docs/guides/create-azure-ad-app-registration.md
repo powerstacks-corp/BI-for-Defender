@@ -7,7 +7,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 
 **Prerequisites:**The user performing this step requires Global Admin and Subscription Admin rights.
 
-### Step 1
+### Step 1: Create a New App Registration
 
 
 
@@ -17,7 +17,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. Search for and select **App registrations**.
 1. Select **New registration**.
 ![](../images/New_Registration-1024x491.png)
-### Step 2
+### Step 2: Register the Application
 
 
 
@@ -27,7 +27,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. Specify who can use the application as **Accounts in this organizational directory** only.
 1. Select **Register**.
 ![register defender app](../images/register_defender_app-812x1024.png)
-### Step 3
+### Step 3: Open API Permissions
 
 
 
@@ -37,7 +37,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. Remove the **User.Read** permission.
 1. Select **Add a permission**.
 ![defender remove default permmissions](../images/defender_remove_default_permmissions-1024x472.png)
-### Step 4
+### Step 4: Select Microsoft Graph
 
 
 
@@ -45,7 +45,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 
 1. Select **Microsoft Graph**.
 ![](../images/MS_graph-1024x434.png)
-### Step 5
+### Step 5: Choose Application Permissions
 
 
 
@@ -53,7 +53,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 
 1. Select **Application permissions**.
 ![](../images/application_permissions-1024x403.png)
-### Step 6
+### Step 6: Add Security Permissions
 
 
 
@@ -65,7 +65,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. **SecurityIncident.Read.All**
 **Do not select the Add permissions button, continue to the next step.**
 ![defender security read permissionspng](../images/defender_security_read_permissionspng-680x1024.png)
-### Step 7
+### Step 7: Add Directory Permissions
 
 
 
@@ -75,7 +75,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. Select the following permissions:**Directory.Read.All**
 **Do not select the Add permissions button, continue to the next step.**
 ![directory read](../images/directory_read-692x1024.png)
-### Step 8
+### Step 8: Add CloudApp-Discovery Permissions
 
 
 
@@ -85,7 +85,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. Select the following permissions:**CloudApp-Discovery.Read.All**
 **Do not select the Add permissions button, continue to the next step.**
 ![](../images/Cloud-app-discovery-permission-686x1024.png)
-### Step 9
+### Step 9: Add Additional Directory Permissions
 
 
 
@@ -95,7 +95,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. Select the following permissions:**Directory.Read.All**
 **Do not select the Add permissions button, continue to the next step.**
 ![directory read](../images/directory_read-692x1024.png)
-### Step 10
+### Step 10: Add ThreatHunting Permissions
 
 
 
@@ -105,7 +105,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. Select **ThreatHunting.Read.All.**
 1. Select the **Add permissions button.**
 ![threat hunting readall](../images/threat_hunting_readall-677x1024.png)
-### Step 11
+### Step 11: Add Another Permission Set
 
 
 
@@ -114,7 +114,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. On the Enterprise App page select **API Permissions**.
 1. Select **Add a permission**.
 ![defender add more permissions](../images/defender_add_more_permissions-1024x533.png)
-### Step 12
+### Step 12: Select WindowsDefenderATP API
 
 
 
@@ -124,7 +124,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. Search for **WindowsDefenderATP**.
 1. Select **WindowsDefenderATP** in the search results.
 ![windows defender atp api](../images/windows_defender_atp_api-1024x460.png)
-### Step 13
+### Step 13: Choose Application Permissions
 
 
 
@@ -132,7 +132,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 
 1. Select **Application permissions**.
 ![windows defender atp app permissions](../images/windows_defender_atp_app_permissions-1024x393.png)
-### Step 14
+### Step 14: Add Machine Permissions
 
 
 
@@ -142,7 +142,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. Select the following permissions:**Machine.Read.All**
 **Do not select the Add permissions button, continue to the next step.**
 ![defender machine readall](../images/defender_machine_readall-678x1024.png)
-### Step 15
+### Step 15: Add SecurityRecommendation Permissions
 
 
 
@@ -152,7 +152,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. Select the following permissions:**SecurityRecommendation.Read.All**
 **Do not select the Add permissions button, continue to the next step.**
 ![defender security read all](../images/defender_security_read_all-1-677x1024.png)
-### Step 16
+### Step 16: Add Software Permissions
 
 
 
@@ -162,7 +162,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. Select the following permissions:**Software.Read.All**
 **Do not select the Add permissions button, continue to the next step.**
 ![defender software read all](../images/defender_software_read_all-687x1024.png)
-### Step 17
+### Step 17: Add Vulnerability Permissions
 
 
 
@@ -172,7 +172,7 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 1. Select the following permissions:**Vulnerability.Read.All**
 Select the **Add permissions**button.
 ![defender vulnerability read all](../images/defender_vulnerability_read_all-681x1024.png)
-### Step 18
+### Step 18: Grant Admin Consent
 
 
 
@@ -180,7 +180,7 @@ Select the **Add permissions**button.
 
 1. Select **Grant admin consent for **.
 ![grant defender permissions](../images/grant_defender_permissions-1024x628.png)
-### Step 19
+### Step 19: Confirm Admin Consent
 
 
 
@@ -188,7 +188,7 @@ Select the **Add permissions**button.
 
 1. Select **Yes**at the prompt.
 ![](../images/Admin-Consent-Yes-1024x108.png)
-### Step 20
+### Step 20: Create a Client Secret
 
 
 
@@ -200,7 +200,7 @@ Select the **Add permissions**button.
 1. Select a value for **Expires**.
 1. Select **Add**.
 ![defender new secret](../images/defender_new_secret-1024x513.png)
-### Step 21
+### Step 21: Record the Client Secret Value
 
 
 
@@ -209,7 +209,7 @@ Select the **Add permissions**button.
 1. Record the **Value** data as the **Azure AD Client Secret**. This will be used later in the installation process. The value can only be displayed once, if you fail to record it here you will have to create a new one.
 1. **NOTE: This is the most common mistake made. You do not need the "Secret ID" You just need the "Value".**
 ![defender secret value](../images/defender_secret_value-1024x302.png)
-### Step 22
+### Step 22: Record the App and Tenant IDs
 
 
 
