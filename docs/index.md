@@ -41,7 +41,11 @@ hide:
 
 ## Comprehensive reporting for Defender for Endpoint
 
-BI for Defender is a Power BI template app available on Microsoft AppSource that provides comprehensive reporting for Microsoft Defender for Endpoint.
+BI for Defender is a Power BI template app that connects to Microsoft Defender for Endpoint via the Microsoft Graph Security API. No agents on endpoints, no vendor portal — your data stays in your Power BI workspace, governed by your Microsoft 365 tenant policies.
+
+Pre-built dashboards cover threat detection and response, device security posture, application control, and vulnerability management. Track alert severity distribution, detection sources, security configuration scores, exposure levels, and CVE remediation progress across all Defender-managed devices.
+
+Drill through from fleet-level security summaries to individual devices and alerts, with automatic refresh on your schedule and full customization capabilities in Power BI.
 
 ---
 
