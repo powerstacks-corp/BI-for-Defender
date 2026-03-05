@@ -5,7 +5,7 @@ title: "Create Azure AD App Registration"
 Synchronizing data from Microsoft Defender for Endpoint is done using application permissions. Here we are configuring the permissions required for Power BI to connect to the Microsoft API's to retrieve the data.
 
 
-**Prerequisites:**The user performing this step requires Global Admin and Subscription Admin rights.
+**Prerequisites:** The user performing this step requires Global Admin and Subscription Admin rights.
 
 ### Step 1: Create a New App Registration
 
@@ -60,10 +60,11 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 
 
 1. Search for **Security**.
-1. Select the following permissions:**SecurityAlert.Read.All**
-1. **SecurityEvents.Read.All**
-1. **SecurityIncident.Read.All**
-**Do not select the Add permissions button, continue to the next step.**
+1. Select the following permissions:
+    - **SecurityAlert.Read.All**
+    - **SecurityEvents.Read.All**
+    - **SecurityIncident.Read.All**
+1. Do not select the **Add permissions** button, continue to the next step.
 ![defender security read permissionspng](../images/defender_security_read_permissionspng-680x1024.png)
 ### Step 7: Add Directory Permissions
 
@@ -72,8 +73,9 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 
 
 1. Search for **Directory**.
-1. Select the following permissions:**Directory.Read.All**
-**Do not select the Add permissions button, continue to the next step.**
+1. Select the following permissions:
+    - **Directory.Read.All**
+1. Do not select the **Add permissions** button, continue to the next step.
 ![directory read](../images/directory_read-692x1024.png)
 ### Step 8: Add CloudApp-Discovery Permissions
 
@@ -82,8 +84,9 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 
 
 1. Search for **CloudApp-Discovery**.
-1. Select the following permissions:**CloudApp-Discovery.Read.All**
-**Do not select the Add permissions button, continue to the next step.**
+1. Select the following permissions:
+    - **CloudApp-Discovery.Read.All**
+1. Do not select the **Add permissions** button, continue to the next step.
 ![](../images/Cloud-app-discovery-permission-686x1024.png)
 ### Step 9: Add Additional Directory Permissions
 
@@ -92,8 +95,9 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 
 
 1. Search for **Directory**.
-1. Select the following permissions:**Directory.Read.All**
-**Do not select the Add permissions button, continue to the next step.**
+1. Select the following permissions:
+    - **Directory.Read.All**
+1. Do not select the **Add permissions** button, continue to the next step.
 ![directory read](../images/directory_read-692x1024.png)
 ### Step 10: Add ThreatHunting Permissions
 
@@ -102,8 +106,8 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 
 
 1. Search for **ThreatHunting**.
-1. Select **ThreatHunting.Read.All.**
-1. Select the **Add permissions button.**
+1. Select **ThreatHunting.Read.All**.
+1. Select the **Add permissions** button.
 ![threat hunting readall](../images/threat_hunting_readall-677x1024.png)
 ### Step 11: Add Another Permission Set
 
@@ -139,8 +143,9 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 
 
 1. Search for **Machine**.
-1. Select the following permissions:**Machine.Read.All**
-**Do not select the Add permissions button, continue to the next step.**
+1. Select the following permissions:
+    - **Machine.Read.All**
+1. Do not select the **Add permissions** button, continue to the next step.
 ![defender machine readall](../images/defender_machine_readall-678x1024.png)
 ### Step 15: Add SecurityRecommendation Permissions
 
@@ -149,8 +154,9 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 
 
 1. Search for **SecurityRecommendation**.
-1. Select the following permissions:**SecurityRecommendation.Read.All**
-**Do not select the Add permissions button, continue to the next step.**
+1. Select the following permissions:
+    - **SecurityRecommendation.Read.All**
+1. Do not select the **Add permissions** button, continue to the next step.
 ![defender security read all](../images/defender_security_read_all-1-677x1024.png)
 ### Step 16: Add Software Permissions
 
@@ -159,8 +165,9 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 
 
 1. Search for **Software**.
-1. Select the following permissions:**Software.Read.All**
-**Do not select the Add permissions button, continue to the next step.**
+1. Select the following permissions:
+    - **Software.Read.All**
+1. Do not select the **Add permissions** button, continue to the next step.
 ![defender software read all](../images/defender_software_read_all-687x1024.png)
 ### Step 17: Add Vulnerability Permissions
 
@@ -169,8 +176,9 @@ Synchronizing data from Microsoft Defender for Endpoint is done using applicatio
 
 
 1. Search for **Vulnerability**.
-1. Select the following permissions:**Vulnerability.Read.All**
-Select the **Add permissions**button.
+1. Select the following permissions:
+    - **Vulnerability.Read.All**
+1. Select the **Add permissions** button.
 ![defender vulnerability read all](../images/defender_vulnerability_read_all-681x1024.png)
 ### Step 18: Grant Admin Consent
 
@@ -186,7 +194,7 @@ Select the **Add permissions**button.
 
 
 
-1. Select **Yes**at the prompt.
+1. Select **Yes** at the prompt.
 ![](../images/Admin-Consent-Yes-1024x108.png)
 ### Step 20: Create a Client Secret
 
@@ -207,7 +215,9 @@ Select the **Add permissions**button.
 
 
 1. Record the **Value** data as the **Azure AD Client Secret**. This will be used later in the installation process. The value can only be displayed once, if you fail to record it here you will have to create a new one.
-1. **NOTE: This is the most common mistake made. You do not need the "Secret ID" You just need the "Value".**
+
+    !!! warning
+        This is the most common mistake made. You do not need the **Secret ID**. You just need the **Value**.
 ![defender secret value](../images/defender_secret_value-1024x302.png)
 ### Step 22: Record the App and Tenant IDs
 
@@ -218,5 +228,5 @@ Select the **Add permissions**button.
 1. Select **Overview**.
 1. Record the **Application (client) ID** as the **Azure AD Client ID**. This will be used later in the installation process.
 1. Record the **Directory (tenant) ID** as the **Azure AD Tenant ID**. This will be used later in the installation process.
-1. The **Azure AD Application registration** is now **complete**.
+1. The Azure AD Application registration is now complete.
 ![defender app overview](../images/defender_app_overview-1024x601.png)

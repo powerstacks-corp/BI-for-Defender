@@ -20,7 +20,7 @@ To get started select the "**Install Now**" button to be directed to Microsoft A
 
 
 1. Select the "**Install Now**" button above.
-1. On the**BI for Defender** page in **Microsoft AppSource** select **Get it now**.
+1. On the **BI for Defender** page in **Microsoft AppSource** select **Get it now**.
 ![get defender now](../images/get_defender_now.png)
 ### Step 2: Sign In with Your Work Email
 

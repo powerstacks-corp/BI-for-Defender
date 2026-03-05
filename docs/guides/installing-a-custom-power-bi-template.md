@@ -35,7 +35,7 @@ We’re thrilled to offer this new way to enhance your BI for Intune experience 
 
 
 
-1. On the **Unable to Connect** dialog box select **Edit.**
+1. On the **Unable to Connect** dialog box select **Edit**.
 ![3](../images/3.png)
 ### Step 3: Ignore Warning Messages
 
@@ -59,7 +59,7 @@ We’re thrilled to offer this new way to enhance your BI for Intune experience 
 
 
 
-1. In Power BI Desktop Select **File** > **Save as** then Select a location to save the file. Provide a name for the file, for example **Intune KPI Dashboard**. (this will be visible when you publish to the Power BI service). Select .**pbix** as the file type. Select **Save**.
+1. In Power BI Desktop Select **File** > **Save as** then Select a location to save the file. Provide a name for the file, for example **Intune KPI Dashboard**. (this will be visible when you publish to the Power BI service). Select **.pbix** as the file type. Select **Save**.
 ![7](../images/7-1024x254.png)
 ### Step 6: Publish to Power BI Service
 

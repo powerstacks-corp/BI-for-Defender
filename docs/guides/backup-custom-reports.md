@@ -25,7 +25,7 @@ We strongly advise customers to always backup  their custom reports before perf
 
 
 
-1. Execute the code in the **code editor** or by running the .**ps1 file**.
+1. Execute the code in the **code editor** or by running the .ps1 file.
 1. When prompted, **Sign-in** to Power BI.
 ![Sign in to Power BI](../images/Sign-in-2-599x1024.png)
 ### Step 3: Select the App to Backup
@@ -45,7 +45,7 @@ v*
 
 
 
-1. When prompted, select your **production**BI for Defender**workspace**. This is the **source** from which reports will be copied.
+1. When prompted, select your production **BI for Defender** workspace. This is the **source** from which reports will be copied.
 1. Select **OK**.
 ![bi for defender prod](../images/bi_for_defender_prod-1024x541.png)
 ### Step 5: Select the Backup Workspace
@@ -54,7 +54,7 @@ v*
 
 
 
-1. When prompted, select your **backup BI for Intune workspace**. This is the **destination** which reports will be copied to.
+1. When prompted, select your backup **BI for Defender** workspace. This is the **destination** which reports will be copied to.
 1. Select **OK**.
 ![defender backup](../images/defender_backup-1024x523.png)
 ### Step 6: Verify the Backup Output

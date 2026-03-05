@@ -4,7 +4,7 @@ title: "Perform In-place Upgrade"
 # Perform In-place Upgrade
 We strongly advise customers to always [backup](backup-custom-reports.md) their custom reports before performing any in-place upgrades. Failure to do so could result in the loss of your custom reports!
 
-**Prerequisites:**The user executing these steps should be the owner of the BI for Defender workspace.
+**Prerequisites:** The user executing these steps should be the owner of the BI for Defender workspace.
 
 ### Step 1: Open the Power BI App Store
 
@@ -49,7 +49,7 @@ We strongly advise customers to always [backup](backup-custom-reports.md) their 
 
 
 1. Select **Update the workspace and the app**.
-1. If prompted, select your **production**BI for Defender **workspace**.
+1. If prompted, select your production **BI for Defender** workspace.
 1. Select **Install**.
 ![defender update app](../images/defender_update_app-1024x642.png)
 ### Step 6: Verify Update and Refresh Data
