@@ -73,14 +73,14 @@ nav:
   - Getting Started:
     - Install BI for Defender: guides/install-bi-for-defender.md
     - Request a Trial License: guides/request-a-trial-license.md
+  - Setup Guide:
     - Create Azure AD App Registration: guides/create-azure-ad-app-registration.md
     - Configure the Dataset: guides/configure-the-dataset.md
-  - Configuration:
-    - Dataset Parameters: guides/dataset-parameters.md
     - Configure Data Sync: guides/configure-data-sync.md
-    - Azure AD App Permissions: guides/azure-ad-app-permissions.md
     - Application Controls: guides/application-controls.md
-  - Maintenance:
+  - Administration:
+    - Dataset Parameters: guides/dataset-parameters.md
+    - Azure AD App Permissions: guides/azure-ad-app-permissions.md
     - Backup Custom Reports: guides/backup-custom-reports.md
     - Perform In-place Upgrade: guides/perform-in-place-upgrade.md
     - Create Backup Workspace: guides/create-backup-workspace.md
@@ -88,6 +88,7 @@ nav:
     - Installing a Custom Template: guides/installing-a-custom-power-bi-template.md
     - How to Edit Reports: guides/how-to-edit-bi-for-defender-reports.md
     - How to Create Popup Box Visuals: guides/how-to-create-popup-box-visuals.md
+  - FAQ: guides/faq.md
   - Release Notes:
     - All Versions: release-notes/index.md
     - Version 15.0 February 26, 2026: release-notes/version-15-0-february-26-2026.md
