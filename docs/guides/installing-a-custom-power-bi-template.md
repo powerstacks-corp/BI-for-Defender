@@ -26,7 +26,7 @@ We’re thrilled to offer this new way to enhance your BI for Intune experience 
 1. Ensure that you have the latest version of Power BI desktop installed.
 1. Ensure that BI for Intune has been [upgraded](/bi-for-intune/guides/perform-in-place-upgrade.md) to the latest version.
 1. Download a .pbit file from our [Github](https://github.com/PowerStacks-BI/BI-for-Intune).
-1. Open Power BI desktop and login using the same credentials that you use to view BI for Intune reports in the Power BI service.
+1. Open Power BI desktop and log in using the same credentials that you use to view BI for Intune reports in the Power BI service.
 1. Open the .pbit file in Power BI desktop.
 ![](../images/1.png)
 ### Step 2: Dismiss the Connection Error
@@ -99,7 +99,7 @@ We’re thrilled to offer this new way to enhance your BI for Intune experience 
 
 
 
-1. Login to the [Power BI service](https://app.powerbi.com) using your favorite browser.
+1. Log in to the [Power BI service](https://app.powerbi.com) using your favorite browser.
 1. Go to your production BI for Intune workspace.
 1. Open the **Intune KPI Dashboard**. (The name might vary; it will be whatever you saved the .pbix file as in step 9 above.
 ![](../images/12-1024x552.png)

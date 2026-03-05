@@ -14,7 +14,7 @@ Our backup process consists of creating a new workspace by installing a second i
 
 
 
-1. Login to **Power BI**.
+1. Log in to **Power BI**.
 1. Select **Apps**.
 1. Select **Get apps**.
 ![get apps](../images/get_apps-1024x182.png)

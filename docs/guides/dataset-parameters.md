@@ -122,7 +122,7 @@ The BI for Defender dataset contains some parameters that must be configured in 
 1. Determines if the URL from the AzureAD Export URL is used or if the URL is found automatically by the app.
 1. Setting this parameter to TRUE will create a new data source credential that must be configured. Authentication method: **Anonymous**
 1. Privacy Level: **Organizational**
-1. Check "**Skip test connection**"
+1. Select **Skip test connection**
 ![](../images/AzureAD-Export-URL-Enable.png)
 ### Step 12: Configure the Export URL
 				AzureAD Export URL

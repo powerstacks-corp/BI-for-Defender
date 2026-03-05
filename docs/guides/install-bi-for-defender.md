@@ -10,7 +10,7 @@ Installing BI for Defender is quite simple. BI for Defender requires no on-premi
 1. The user performing this step requires a Power BI Pro license, Power BI Premium Per User license, or the Power BI tenant must be licensed for Power BI Premium. Microsoft offers a free Power BI Pro trial license via self-service sign-up for those who want to try BI for Defender before purchasing Microsoft licenses.
 1. Permissions to create an App Registration in Azure AD are required to configure the trial.
 
-To get started select the "**Install Now**" button to be directed to Microsoft App Source.
+To get started select the **Install Now** button to be directed to Microsoft App Source.
 [Install Now](https://appsource.microsoft.com/en-us/product/power-bi/powerstackscorporation1641419080242.bifordefender?tab=Overview)
 
 ### Step 1: Get the App from AppSource
@@ -19,7 +19,7 @@ To get started select the "**Install Now**" button to be directed to Microsoft A
 
 
 
-1. Select the "**Install Now**" button above.
+1. Select the **Install Now** button above.
 1. On the **BI for Defender** page in **Microsoft AppSource** select **Get it now**.
 ![get defender now](../images/get_defender_now.png)
 ### Step 2: Sign In with Your Work Email
