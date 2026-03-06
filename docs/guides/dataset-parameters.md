@@ -2,7 +2,7 @@
 title: "Dataset Parameters"
 ---
 # Dataset Parameters Explained
-The BI for Defender dataset contains some parameters that must be configured in order to synchronize data from Defender for Endpoint to Power BI. Other parameters add additional functionality to BI for Defender. This article explains each of the parameters in detail.
+The BI for Defender dataset contains some parameters that must be configured to synchronize data from Defender for Endpoint to Power BI. Other parameters add additional functionality to BI for Defender. This article explains each of the parameters in detail.
 
 ### Step 1: Open the Defender Workspace
 

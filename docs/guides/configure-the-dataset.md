@@ -2,7 +2,7 @@
 title: "Configure the Dataset"
 ---
 # Configure The Dataset Parameters
-The BI for Defender dataset contains some parameters that must be configured in order to synchronize data from Defender for Endpoint to Power BI. Following the steps below to configure the dataset parameters and sync your data.
+The BI for Defender dataset contains some parameters that must be configured to synchronize data from Defender for Endpoint to Power BI. Following the steps below to configure the dataset parameters and sync your data.
 
 ### Step 1: Open the Defender Workspace
 
