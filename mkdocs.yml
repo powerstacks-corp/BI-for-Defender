@@ -114,6 +114,7 @@ nav:
     - Version 2.0 Feb. 28, 2024: release-notes/version-2-0-feb-28-2024.md
 
 extra:
+  marketing_url: !ENV [MARKETING_URL, "https://powerstacks.com"]
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/powerstacks-corp/BI-for-Defender
