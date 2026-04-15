@@ -457,7 +457,6 @@ If you missed version 8.0, please [review the critical change](http://ec2-35-94-
 
 ## Version 9.0 April 21, 2025
 
-# Version 9.0 (AppSource Version 1009)
 Version 9.0 introduces powerful new reporting features, including comprehensive browser extension visibility and key enhancements to device and license management. This update also adds a new semantic model parameter and continues to build on highly requested capabilities.
 
 **Important Notes:**
@@ -550,7 +549,6 @@ We've added a new **Browser Extensions** report page to BI for Defender, providi
 
 ## Version 8.0 March 9, 2025
 
-# Version 8.0 (AppSource Version 1008)
 BI for Defender Version 8.0, shown as version 1008 in AppSource, was released on March 09, 2025.
 
 **Important Notes:**
@@ -605,7 +603,6 @@ We've added a new "Fixed Vulnerabilities" report page to **BI for Defender**, gi
 
 ## Version 7.0 Jan. 14, 2025
 
-# Version 7.0 (AppSource Version 1007)
 BI for Defender Version 7.0, shown as version 1007 in AppSource, was released on January 14, 2025.
 
 This release introduces multi-cloud support and brings several new features.
@@ -660,7 +657,6 @@ Renamed the "**AzureAD AdvancedHunting Process Event Day(s)**" dataset parameter
 
 ## Version 6.0 Nov. 22, 2024
 
-# Version 6.0 (AppSource Version 1006)
 BI for Defender Version 6.0, shown as version 1006 in AppSource, was released on November 22, 2024.
 
 
@@ -684,7 +680,6 @@ BI for Defender Version 6.0, shown as version 1006 in AppSource, was released on
 
 ## Version 5.0 Nov. 21, 2024
 
-# Version 5.0 (AppSource Version 1005)
 BI for Defender Version 5.0, shown as version 1005 in AppSource, was released on November 21, 2024.
 
 
@@ -722,7 +717,6 @@ BI for Defender Version 5.0, shown as version 1005 in AppSource, was released on
 
 ## Version 4.0 Oct. 4, 2024
 
-# Version 4.0 (AppSource Version 1004)
 BI for Defender Version 4.0, shown as version 1004 in AppSource, was released on October 4, 2024. Version 4 includes many requested improvements.
 
 **Important Notes:**
@@ -792,7 +786,6 @@ Always backup your custom reports using our [backup process.](create-backup-work
 
 ## Version 3.0 Sept. 3, 2024
 
-# Version 3.0 (AppSource Version 1003)
 BI for Defender Version 3.0, shown as version 1001 in AppSource, was released on September 3, 2024. Version 3 includes many requested improvements such as Secure Score and Incidents and Alerts.
 
 **Important Notes:**
@@ -887,7 +880,6 @@ Always backup your custom reports using our [backup process.](create-backup-work
 
 ## Version 2.0 Feb. 28, 2024
 
-# Version 2.0 (AppSource Version 1001)
 BI for Defender Version 2.0, shown as version 1001 in AppSource, was released on February 28, 2024.
 
 
