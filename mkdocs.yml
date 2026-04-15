@@ -1,1 +1,111 @@
 ﻿site_name: BI for Defender by PowerStacks
+site_description: Comprehensive Power BI reporting for Microsoft Defender for Endpoint
+site_url: https://powerstacks-corp.github.io/BI-for-Defender/
+
+repo_url: https://github.com/powerstacks-corp/BI-for-Defender
+repo_name: BI-for-Defender
+
+docs_dir: docs
+
+theme:
+  name: material
+  language: en
+  font: false  # Disabled to use local Segoe UI from custom CSS instead of Google Fonts fallback
+  palette:
+    scheme: default
+    primary: custom
+    accent: custom
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - search.share
+    - content.code.copy
+    - toc.follow
+  icon:
+    repo: fontawesome/brands/github
+  custom_dir: docs/overrides
+
+extra_css:
+  - stylesheets/microsoft-learn.css
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.mark
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+plugins:
+  - search
+  - glightbox:
+      skip_classes:
+        - skip-lightbox
+
+nav:
+  - Home: index.md
+  - Getting Started:
+    - Install BI for Defender: guides/install-bi-for-defender.md
+    - Request a Trial License: guides/request-a-trial-license.md
+  - Setup Guide:
+    - Create Azure AD App Registration: guides/create-azure-ad-app-registration.md
+    - Configure the Dataset: guides/configure-the-dataset.md
+    - Configure Data Sync: guides/configure-data-sync.md
+    - Application Controls: guides/application-controls.md
+  - Administration:
+    - Dataset Parameters: guides/dataset-parameters.md
+    - Azure AD App Permissions: guides/azure-ad-app-permissions.md
+    - Backup Custom Reports: guides/backup-custom-reports.md
+    - Perform In-place Upgrade: guides/perform-in-place-upgrade.md
+    - Create Backup Workspace: guides/create-backup-workspace.md
+  - Customization:
+    - Installing a Custom Template: guides/installing-a-custom-power-bi-template.md
+    - How to Edit Reports: guides/how-to-edit-bi-for-defender-reports.md
+    - How to Create Popup Box Visuals: guides/how-to-create-popup-box-visuals.md
+  - FAQ: guides/faq.md
+  - Release Notes:
+    - All Versions: release-notes/index.md
+    - Version 15.0 February 26, 2026: release-notes/version-15-0-february-26-2026.md
+    - Version 14.0 Jan. 23, 2026: release-notes/version-14-0-jan-23-2026.md
+    - Version 13.0 Nov. 24, 2025: release-notes/version-13-0-nov-24-2025.md
+    - Version 12.0 Oct. 12, 2025: release-notes/version-12-0-oct-12-2025.md
+    - Version 11.0 Oct. 3, 2025: release-notes/version-11-0-oct-3-2025.md
+    - Version 10.0 June 15, 2025: release-notes/version-10-0-june-15-2025.md
+    - Version 9.0 April 21, 2025: release-notes/version-9-0-april-21-2025.md
+    - Version 8.0 March 9, 2025: release-notes/version-8-0-march-9-2025.md
+    - Version 7.0 Jan. 14, 2025: release-notes/version-7-0-jan-14-2025.md
+    - Version 6.0 Nov. 22, 2024: release-notes/version-6-0-nov-22-2024.md
+    - Version 5.0 Nov. 21, 2024: release-notes/version-5-0-nov-21-2024.md
+    - Version 4.0 Oct. 4, 2024: release-notes/version-4-0-oct-4-2024.md
+    - Version 3.0 Sept. 3, 2024: release-notes/version-3-0-sept-3-2024.md
+    - Version 2.0 Feb. 28, 2024: release-notes/version-2-0-feb-28-2024.md
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/powerstacks-corp/BI-for-Defender
+  generator: false
