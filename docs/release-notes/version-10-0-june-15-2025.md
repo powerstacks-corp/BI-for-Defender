@@ -8,7 +8,7 @@ title: "Version 10.0 June 15, 2025"
 Version 10 is a small maintenace release to fix some minor bugs that affected a limited number of customers and to add minor new feature requested by a customer.
 
 **Important Notes:**
-If you missed version 8.0, please [review the critical change](http://ec2-35-94-201-107.us-west-2.compute.amazonaws.com/wordpress/bi-for-defender-change-log/version-8-0-march-10-2025/) related to vulnerabilities and security update filtering.  And as always—before upgrading, [back up your custom reports](create-backup-workspace.md) to prevent data loss.
+If you missed version 8.0, please [review the critical change](https://docs.powerstacks.com/bi-for-defender/release-notes/version-8-0-march-9-2025/) related to vulnerabilities and security update filtering.  And as always—before upgrading, [back up your custom reports](create-backup-workspace.md) to prevent data loss.
 
 
 ## Version 10.0 Release Details

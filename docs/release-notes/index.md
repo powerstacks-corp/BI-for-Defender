@@ -424,7 +424,7 @@ Updated the “**Device AntiVirus**” object. New fields include:
 Version 10 is a small maintenace release to fix some minor bugs that affected a limited number of customers and to add minor new feature requested by a customer.
 
 **Important Notes:**
-If you missed version 8.0, please [review the critical change](http://ec2-35-94-201-107.us-west-2.compute.amazonaws.com/wordpress/bi-for-defender-change-log/version-8-0-march-10-2025/) related to vulnerabilities and security update filtering.  And as always—before upgrading, [back up your custom reports](create-backup-workspace.md) to prevent data loss.
+If you missed version 8.0, please [review the critical change](https://docs.powerstacks.com/bi-for-defender/release-notes/version-8-0-march-9-2025/) related to vulnerabilities and security update filtering.  And as always—before upgrading, [back up your custom reports](create-backup-workspace.md) to prevent data loss.
 
 
 ## Version 10.0 Release Details
@@ -460,7 +460,7 @@ If you missed version 8.0, please [review the critical change](http://ec2-35-94-
 Version 9.0 introduces powerful new reporting features, including comprehensive browser extension visibility and key enhancements to device and license management. This update also adds a new semantic model parameter and continues to build on highly requested capabilities.
 
 **Important Notes:**
-If you missed version 8.0, please [review the critical change](http://ec2-35-94-201-107.us-west-2.compute.amazonaws.com/wordpress/bi-for-defender-change-log/version-8-0-march-10-2025/) related to vulnerabilities and security update filtering.  And as always—before upgrading, [back up your custom reports](create-backup-workspace.md) to prevent data loss.
+If you missed version 8.0, please [review the critical change](https://docs.powerstacks.com/bi-for-defender/release-notes/version-8-0-march-9-2025/) related to vulnerabilities and security update filtering.  And as always—before upgrading, [back up your custom reports](create-backup-workspace.md) to prevent data loss.
 
 
 ## Below are the Changes in Version 9.0
@@ -469,7 +469,7 @@ If you missed version 8.0, please [review the critical change](http://ec2-35-94-
 ### New pages added to the BI for Defender report
 
 **Browser Extensions** – The new Browser Extensions page provides visibility into installed browser extensions, their versions, risk ratings, and required permissions.
-**Note**: To copy the new pages to your custom reports, see the article [How to Copy Pages](http://ec2-35-94-201-107.us-west-2.compute.amazonaws.com/wordpress/how-to-copy-pages/).
+**Note**: To copy the new pages to your custom reports, see the article How to Copy Pages.
 
 
 ### New objects added to the semantic model
